@@ -12,7 +12,10 @@ Dancing produces an environment of support and friendship where people may motiv
  
 There are many different dance forms to experiment with, ranging from salsa and modern to ballet and hip-hop. Every style has its own unique collection of methods, gestures, and cultural inspirations. To discover what appeals to you the most, you might decide to concentrate on a single style or try out other genres. Dancing is a journey where the main focus is on having fun while learning new skills and getting better.
 ## Forms Of Dance
- 
+ ![image](https://github.com/AmaAdusei/leenhassan/assets/148862738/741636b1-3571-419c-b3e9-dba5cb98f609)![image](https://github.com/AmaAdusei/leenhassan/assets/148862738/d2add772-44e6-4512-b73e-65da55ef7a0a) ![image](https://github.com/AmaAdusei/leenhassan/assets/148862738/8d90d0f6-3cf3-4939-8a98-01badd9b110c)
+
+
+
 The different dance forms include
 1.Ballet: Dating back to the fifteenth century, ballet is a traditional and elegant dance style. It emphasizes precise gestures, excellent skill, and presenting stories with graceful, flowing motions. If ballet's elegance captures your attention, you might choose to enroll in a beginner's class to master the fundamental moves.
 2. Hip-Hop: If you enjoy energetic dance with an urban feel, hip-hop may be the right genre for you. Hip-hop dance is a broad genre ththat includes moves like popping, locking, and breaking. It's all about expressing your individuality with style and attitude.
