@@ -47,6 +47,8 @@ Because stress has profound effects on endocrine function, adopting effective st
 ## Conclusion:
 The complex relationship between stress and the endocrine system underscores the importance of recognizing and managing stress for long-term health. By understanding how stressors trigger hormonal responses, and understanding the delicate balance necessary for optimal hormonal function, people can take proactive steps to mitigate the negative effects of chronic stress. Prioritizing stress management techniques and seeking support when needed promotes an overall sense of well-being and promotes a healthier balance in the body and complex hormonal system.
 
+[Part 3](Part_4.md)
+
 ### Sources
 + [Johns Hopkins Medicine](https://www.hopkinsmedicine.org/health/wellness-and-prevention/anatomy-of-the-endocrine-system
 )
