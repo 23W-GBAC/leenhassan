@@ -3,7 +3,7 @@
 In this blog post, we'll explore the world of cortisol. We'll start by explaining what cortisol is and its role in the body. We'll discuss how it's produced, regulated, and the various functions it serves. Then, we'll dive into the impact of cortisol on different body systems, including the endocrine system, immune system, and cardiovascular system. We'll also touch up on the long-term effects of chronically elevated cortisol levels and how it can lead to health issues like obesity, diabetes, and cardiovascular disease. 
 
 ## Introduction:
-Cortisol, often called the "stress hormone" plays a vital role in the body's stress response and is essential for maintaining overall health. Cortisol, produced by the adrenal glands, affects various body functions, including metabolism, immune response and blood pressure. Although cortisol is a necessary and normal part of the body and function, chronic stress and elevated cortisol levels can significantly affect health. This blog post discusses the multifaceted role of cortisol, its functions, and the effects of prolonged stress on general well-being.
+Cortisol, often called the "stress hormone" plays a vital role in the body's stress response and is essential for maintaining overall health. Cortisol, produced by the adrenal glands affects various body functions, including metabolism, immune response and blood pressure. Although cortisol is a necessary and normal part of the body and function, chronic stress and elevated cortisol levels can significantly affect health. This blog post discusses the multifaceted role of cortisol, its functions, and the effects of prolonged stress on general well-being.
 
 ## Cortisol Functions:
 Cortisol is a steroid hormone belonging to the glucocorticoid class, which plays a central role in the body and in the stress response system, also known as the hypothalamic-pituitary-adrenal (HPA). Its production is regulated by the brain, especially by the hypothalamus and pituitary gland, in response to various stressors such as physical or psychological challenges.
@@ -46,4 +46,4 @@ As people transition to the demands of modern life, adopting strategies to reduc
 )
 + [ChatGPT4](https://chat.openai.com/
 )
-
+[Click here to go to youtube](https://www.youtube.com/)
