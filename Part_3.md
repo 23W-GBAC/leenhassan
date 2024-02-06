@@ -68,7 +68,7 @@ Patient Education and Support:
 Providing comprehensive education to people with hormonal disorders empowers them to take an active role in their own care. Support groups and resources can also provide valuable help in coping with the challenges associated with these conditions.
 Conclusion:
 Treatment of endocrine system disorders requires a comprehensive and individual approach. Thanks to advances in medicine and a focus on holistic care, these illnesses can lead to full lives. Early detection, proper treatment and consistent self-care are the keys to effectively treating these conditions and promoting hormonal balance. Consulting with health care professionals and staying informed about your condition are important steps toward optimal health and wellness in the case of hormonal disorders..
-
+### [part 4](Part_4.md)
 Sources > https://www.healthline.com/health/the-endocrine-system
 https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/hormonal-endocrine-system
 https://www.britannica.com/science/endocrine-system
