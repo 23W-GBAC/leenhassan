@@ -46,4 +46,3 @@ As people transition to the demands of modern life, adopting strategies to reduc
 )
 + [ChatGPT4](https://chat.openai.com/
 )
-[Click here to go to youtube](https://www.youtube.com/)
