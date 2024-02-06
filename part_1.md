@@ -37,7 +37,7 @@ Studies have shown that chronic exposure to cortisol can affect brain structure 
 Cortisol, the stress hormone, is an important part of the body's adaptive response to stress. However, chronic exposure to elevated cortisol levels due to prolonged stress can have profound effects on physical and mental health. Understanding the multiple roles of cortisol in metabolism, immune function, cardiovascular health and cognitive function highlights the importance of stress management for overall well-being.
 As people transition to the demands of modern life, adopting strategies to reduce stress and promote cortisol balance is imperative. Exercising regularly, prioritizing quality sleep, practicing mindfulness and maintaining a healthy diet are key parts of a holistic approach to controlling cortisol levels and maintaining health. By understanding the complex interplay between stress, cortisol, and health, people can make informed lifestyle choices that promote long-term wellness.
 
-## part 2
+
 ### Sources
 + [US Environmental Protection Agency](https://www.epa.gov/endocrine-disruption/overview-endocrine-system#:~:text=The%20endocrine%20system%2C%20made%20up,the%20metabolism%20and%20blood%20sugar
 )
